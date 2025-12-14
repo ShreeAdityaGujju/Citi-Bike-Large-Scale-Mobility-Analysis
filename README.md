@@ -2,7 +2,7 @@
 Large-scale analysis of millions of Citi Bike trips to identify station-level demand imbalances and temporal mobility patterns using Python.
 
 
-This project analyzes **Citi Bike trip data at scale** to:
+This project analyzes **Citi Bike trip data(Oct 2025) at scale** to:
 1) Engineer behavioral + temporal features for **unsupervised segmentation**, and  
 2) Quantify **station–hour demand imbalance** using departures vs arrivals (net outflow).
 
