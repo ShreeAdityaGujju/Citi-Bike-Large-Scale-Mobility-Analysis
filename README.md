@@ -25,14 +25,6 @@ The repository includes an exported HTML report (`CITI_Analysis.html`) so that a
 
 ---
 
-## Repository Structure
-.
-├── CITI_Analysis.html 
-├── CITI_Analysis.ipynb 
-└── README.md
-
----
-
 ## How to View
 ### Option A — Open the HTML report
 Download and open:
